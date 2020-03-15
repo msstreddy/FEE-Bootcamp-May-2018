@@ -1,0 +1,289 @@
+{
+    "State": "New York",
+    "Region": "All",
+    "packageName": "Standard",
+    "packageVersion": "1.1",
+    "EffectiveDt": "1/1/2021",
+    "ExpirationDt": "1/1/2099",
+    "products": [
+        {
+            "productName": "Automobile Insurance",
+            "Lob": "PNC",
+            "ProductVersion": "1.1",
+            "EffectiveDt": "1/1/2020",
+            "ExpirationDt": "12/31/2099",
+            "coverages": [
+                {
+                    "CoverageName": "Accedental Benifits",
+                    "category": "Liability",
+                    "CoverageVersion": "1.0",
+                    "EffectiveDt": "1/1/1900",
+                    "ExpirationDt": "12/31/2099",
+                    "Optionality": "Mandatory",
+                    "CoverageType": "Basic",
+                    "limits": [
+                        {
+                            "Limit_ID": "AB_30_60K",
+                            "Limit_Type": "Multiple",
+                            "DETAILS": "30,000/60,000",
+                            "AppliedFunction": "Not Applicable"
+                        },
+                        {
+                            "Limit_ID": "AB_50_100K",
+                            "Limit_Type": "Multiple",
+                            "DETAILS": "50,000/100,000",
+                            "AppliedFunction": "Not Applicable"
+                        },
+                        {
+                            "Limit_ID": "AB_100_200K",
+                            "Limit_Type": "Multiple",
+                            "DETAILS": "100,000/200,000",
+                            "AppliedFunction": "Not Applicable"
+                        },
+                        {
+                            "Limit_ID": "AB_200_300K",
+                            "Limit_Type": "Multiple",
+                            "DETAILS": "200,000/300,000",
+                            "AppliedFunction": "Not Applicable"
+                        }
+                    ],
+                    "deductibles": []
+                },
+                {
+                    "CoverageName": "Property Damage",
+                    "category": "Liability",
+                    "CoverageVersion": "1.0",
+                    "EffectiveDt": "1/1/1900",
+                    "ExpirationDt": "12/31/2099",
+                    "Optionality": "Mandatory",
+                    "CoverageType": "Basic",
+                    "limits": [
+                        {
+                            "Limit_ID": "PD_25K",
+                            "Limit_Type": "Single",
+                            "DETAILS": "25,000",
+                            "AppliedFunction": "Not Applicable"
+                        },
+                        {
+                            "Limit_ID": "PD_50K",
+                            "Limit_Type": "Single",
+                            "DETAILS": "50,000",
+                            "AppliedFunction": "Not Applicable"
+                        },
+                        {
+                            "Limit_ID": "PD_100K",
+                            "Limit_Type": "Single",
+                            "DETAILS": "100,000",
+                            "AppliedFunction": "Not Applicable"
+                        },
+                        {
+                            "Limit_ID": "PD_200K",
+                            "Limit_Type": "Multiple",
+                            "DETAILS": "200,000",
+                            "AppliedFunction": "Not Applicable"
+                        }
+                    ],
+                    "deductibles": []
+                },
+                {
+                    "CoverageName": "Accedental Benifits",
+                    "category": "UnInsured/UnderInsured",
+                    "CoverageVersion": "1.0",
+                    "EffectiveDt": "1/1/1900",
+                    "ExpirationDt": "12/31/2099",
+                    "Optionality": "Optional",
+                    "CoverageType": "Basic",
+                    "limits": [
+                        {
+                            "Limit_ID": "AB_NO_COV",
+                            "Limit_Type": "Multiple",
+                            "DETAILS": "NO COVERAGE",
+                            "AppliedFunction": "Not Applicable"
+                        },
+                        {
+                            "Limit_ID": "AB_30_60K",
+                            "Limit_Type": "Multiple",
+                            "DETAILS": "30,000/60,000",
+                            "AppliedFunction": "Not Applicable"
+                        },
+                        {
+                            "Limit_ID": "AB_50_100K",
+                            "Limit_Type": "Multiple",
+                            "DETAILS": "50,000/100,000",
+                            "AppliedFunction": "Not Applicable"
+                        },
+                        {
+                            "Limit_ID": "AB_100_200K",
+                            "Limit_Type": "Multiple",
+                            "DETAILS": "100,000/200,000",
+                            "AppliedFunction": "Not Applicable"
+                        },
+                        {
+                            "Limit_ID": "AB_200_300K",
+                            "Limit_Type": "Multiple",
+                            "DETAILS": "200,000/300,000",
+                            "AppliedFunction": "Not Applicable"
+                        }
+                    ],
+                    "deductibles": []
+                },
+                {
+                    "CoverageName": "Property Damage",
+                    "category": "UnInsured/UnderInsured",
+                    "CoverageVersion": "1.0",
+                    "EffectiveDt": "1/1/1900",
+                    "ExpirationDt": "12/31/2099",
+                    "Optionality": "Optional",
+                    "CoverageType": "Basic",
+                    "limits": [
+                        {
+                            "Limit_ID": "PD_NO_COV",
+                            "Limit_Type": "Single",
+                            "DETAILS": "NO COVERAGE",
+                            "AppliedFunction": "Not Applicable"
+                        },
+                        {
+                            "Limit_ID": "PD_25K",
+                            "Limit_Type": "Single",
+                            "DETAILS": "25,000",
+                            "AppliedFunction": "Not Applicable"
+                        },
+                        {
+                            "Limit_ID": "PD_50K",
+                            "Limit_Type": "Single",
+                            "DETAILS": "50,000",
+                            "AppliedFunction": "Not Applicable"
+                        },
+                        {
+                            "Limit_ID": "PD_100K",
+                            "Limit_Type": "Single",
+                            "DETAILS": "100,000",
+                            "AppliedFunction": "Not Applicable"
+                        },
+                        {
+                            "Limit_ID": "PD_200K",
+                            "Limit_Type": "Multiple",
+                            "DETAILS": "200,000",
+                            "AppliedFunction": "Not Applicable"
+                        }
+                    ],
+                    "deductibles": []
+                },
+                {
+                    "CoverageName": "Collision",
+                    "Categoty": "Automobile",
+                    "CoverageVersion": "1.0",
+                    "EffectiveDt": "1/1/1900",
+                    "ExpirationDt": "12/31/2099",
+                    "Optionality": "Optional",
+                    "CoverageType": "Basic",
+                    "exclusions": [
+                        {
+                            "Exclusion_ID": "COLL_EXCLU_FAULT",
+                            "Exclusion_Type": "Obligation",
+                            "DETAILS": "Would not be paid if the accident is at fault"
+                        }
+                    ],
+                    "limits": [],
+                    "deductibles": [
+                        {
+                            "Limit_ID": "COLL_NO_COV",
+                            "Limit_Type": "Single",
+                            "DETAILS": "NO COVERAGE",
+                            "AppliedFunction": "Not Applicable"
+                        },
+                        {
+                            "Limit_ID": "COL_250",
+                            "Limit_Type": "Multiple",
+                            "DETAILS": "250",
+                            "AppliedFunction": "Not Applicable"
+                        },
+                        {
+                            "Limit_ID": "COL_500",
+                            "Limit_Type": "Multiple",
+                            "DETAILS": "500",
+                            "AppliedFunction": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "CoverageName": "Comprehension",
+                    "Categoty": "Automobile",
+                    "CoverageVersion": "1.0",
+                    "EffectiveDt": "1/1/1900",
+                    "ExpirationDt": "12/31/2099",
+                    "Optionality": "Optional",
+                    "CoverageType": "Basic",
+                    "limits": [],
+                    "deductibles": [
+                        {
+                            "Limit_ID": "COLL_NO_COV",
+                            "Limit_Type": "Single",
+                            "DETAILS": "NO COVERAGE",
+                            "AppliedFunction": "Not Applicable"
+                        },
+                        {
+                            "Limit_ID": "COL_250",
+                            "Limit_Type": "Multiple",
+                            "DETAILS": "250",
+                            "AppliedFunction": "Not Applicable"
+                        },
+                        {
+                            "Limit_ID": "COL_500",
+                            "Limit_Type": "Multiple",
+                            "DETAILS": "500",
+                            "AppliedFunction": "Not Applicable"
+                        }
+                    ]
+                },
+                {
+                    "CoverageName": "Emergency Road Side",
+                    "Categoty": "Rental",
+                    "CoverageVersion": "1.0",
+                    "EffectiveDt": "1/1/1900",
+                    "ExpirationDt": "12/31/2099",
+                    "Optionality": "Optional",
+                    "CoverageType": "Additional",
+                    "deductibles": [],
+                    "limits": []
+                },
+                {
+                    "CoverageName": "Car Rental And Travel Expense",
+                    "Categoty": "Rental",
+                    "CoverageVersion": "1.0",
+                    "EffectiveDt": "1/1/1900",
+                    "ExpirationDt": "12/31/2099",
+                    "Optionality": "Optional",
+                    "CoverageType": "Additional",
+                    "deductibles": [],
+                    "limits": [
+                        {
+                            "Limit_ID": "RNTL_TRVL_NO_COV",
+                            "Limit_Type": "Multiple_RNTL",
+                            "DETAILS": "NO COVERAGE",
+                            "AppliedFunction": "Not Applicable"
+                        },
+                        {
+                            "Limit_ID": "RNTL_TRVL_25_600",
+                            "Limit_Type": "Multiple_RNTL",
+                            "DETAILS": "$25/Day Max $600",
+                            "AppliedFunction": "Not Applicable"
+                        },
+                        {
+                            "Limit_ID": "RNTL_TRVL_50_1200",
+                            "Limit_Type": "Multiple_RNTL",
+                            "DETAILS": "$50/Day Max $1200",
+                            "AppliedFunction": "Not Applicable"
+                        },
+                        {
+                            "Limit_ID": "RNTL_TRVL_80_1500",
+                            "Limit_Type": "Multiple_RNTL",
+                            "DETAILS": "$80% Cost Max $1500",
+                            "AppliedFunction": "Not Applicable"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
